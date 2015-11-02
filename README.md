@@ -26,4 +26,5 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
 
 ## Background image
-https://www.flickr.com/photos/fhgitarre/5189652834/
+Frank Hiemenz; Munich, television tower in sunset, july 2010
+<a href="https://www.flickr.com/photos/fhgitarre/5189652834/">Flickr</a>
