@@ -35,6 +35,11 @@ h6 {
     width: 180px;
 }
 
+@media(max-width:650px) {
+    .event-info li {
+       border: 0;
+}}
+
 .event-info li:first-child {
     border: 0;
 }
