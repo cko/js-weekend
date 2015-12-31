@@ -154,6 +154,19 @@ h6 {
     margin-top: 0;
 }
 
+
+td.bottom-cell {
+    border-bottom: 1px solid #ddd;
+}
+
+.table>tbody>tr>td.trowspan {
+   vertical-align: middle;
+}
+
+.table>tbody>tr>td.trowspan>p {
+   margin-bottom: 0px;
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
