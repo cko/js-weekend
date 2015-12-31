@@ -30,6 +30,11 @@ h6 {
     font-weight: 400;
 }
 
+a.inverse {
+    color: #f8f8f8;
+    font-weight: 600;
+}
+
 .event-info li {
     border-left: 3px solid #FFF;
     width: 180px;
