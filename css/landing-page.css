@@ -45,7 +45,7 @@ a.inverse {
 }
 
 @media(max-width:650px) {
-    .event-info li {
+.event-info li {
        border: 0;
 }}
 
@@ -58,8 +58,6 @@ a.inverse {
     padding-bottom: 150px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
-    background-size: cover;
 }
 
 .intro-message {
@@ -108,10 +106,16 @@ a.inverse {
 }
 
 @media (min-width: 1200px){
-    .section-b-text {
+.intro-header {
+    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
+    background-color: #637ed7;
+}
+
+.section-b-text {
         margin-left: 1%;
         width: 49%;
-    }
+  }
 }
 
 .network-name {
@@ -177,10 +181,16 @@ td.bottom-cell {
 }
 
 @media(max-width:1199px) {
-    ul.banner-social-buttons {
-        float: left;
-        margin-top: 15px;
-    }
+.intro-header {
+    background: url(../img/intro-bg_small.jpg) no-repeat center center;
+    background-size: cover;
+    background-color: #637ed7;
+}
+
+ ul.banner-social-buttons {
+    float: left;
+    margin-top: 15px;
+ }
 }
 
 @media(max-width:767px) {
